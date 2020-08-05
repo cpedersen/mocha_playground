@@ -1,0 +1,31 @@
+{
+  "name": "mocha_playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpedersen/mocha_playfround.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cpedersen/mocha_playfround/issues"
+  },
+  "homepage": "https://github.com/cpedersen/mocha_playfround#readme",
+  "description": ""
+}
