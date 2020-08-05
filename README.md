@@ -9,6 +9,5 @@ This is a playground area to experiment with using Mocha for integration testing
 * edit package.json, adding "test": "mocha"
 * npm test
 * npm install chai -D
-* add require in test file:
-- const chai = require('chai');
-- const expect = chai.expect;
+* add chai require in test file: const chai = require('chai');
+* set up expect in test file: const expect = chai.expect;
