@@ -4,7 +4,11 @@ This is a playground area to experiment with using Mocha for integration testing
 ## How To
 * mkdir mocha_playground && cd $_
 * npm init -y
-* set up test files
+* set up test files with appropriate requires
 * npm install mocha -D
 * edit package.json, adding "test": "mocha"
 * npm test
+* npm install chai -D
+* add require in test file:
+- const chai = require('chai');
+- const expect = chai.expect;
