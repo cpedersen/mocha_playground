@@ -1,7 +1,7 @@
-#Summary
+# Summary
 This is a playground area to experiment with using Mocha for integration testing. It was covered as part of the Note Integration Testing section in Thinkful's program.
 
-##How To
+## How To
 * mkdir mocha_playground && cd $_
 * npm init -y
 * set up test files
